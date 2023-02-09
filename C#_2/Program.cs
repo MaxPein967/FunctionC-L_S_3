@@ -97,3 +97,4 @@ void SelectionSort(int[] array)
 PrintArray(arr);
 SelectionSort(arr);
 PrintArray(arr);
+
